@@ -149,3 +149,9 @@ in a browser.
 ## Data Disclaimer
 
 The included dataset is simulated for portfolio demonstration. The current sample contains approximately 3,600 records covering 30 branches, 10 CX KPIs, and 12 observation months.
+
+# Author
+
+**Sadia Ahmed**
+
+Senior Business Intelligence & Analytics Professional
