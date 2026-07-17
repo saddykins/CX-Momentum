@@ -11,7 +11,7 @@ The project combines:
 - Mobile-first executive UX
 - Interactive HTML prototyping
 
-## Live Dashboard
+## Dashboard Prototype
 
 [![Live Dashboard](https://img.shields.io/badge/🚀-Live%20Dashboard-2EAFE5?style=for-the-badge)](https://cx-momentum-vercel.vercel.app)
 
@@ -124,7 +124,7 @@ Dubai Mall Branch × CSAT × 31 May 2026
 - Higher/lower-is-better business logic
 - Reversal indicators
 
-## Suggested Presentation Story
+## Presentation Story
 
 > I designed CX Momentum to answer one executive question: where is customer experience improving, where is it deteriorating, and where should leadership intervene first? Instead of creating a separate dashboard for each KPI, I built one centralized KPI model and one reusable momentum framework that dynamically adapts to any CX metric.
 
