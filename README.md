@@ -13,7 +13,7 @@ The project combines:
 
 ## Live Dashboard
 
-Deploy `dashboard/index.html` with Vercel, Netlify, or GitHub Pages.
+[![Live Dashboard](https://img.shields.io/badge/🚀-Live%20Dashboard-2EAFE5?style=for-the-badge)](https://cx-momentum-vercel.vercel.app)
 
 ## Business Question
 
